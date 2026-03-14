@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "いまはおやすみ",
+  "base_artist": "戸田恵子",
+  "createdAt": "2026-03-14T23:01:31.170218Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いまはおやすみ",
+      "artist": "戸田恵子",
+      "has_synced": false,
+      "path": "select/01_いまはおやすみ_戸田恵子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いまはおやすみ",
+      "artist": "戸田恵子",
+      "has_synced": false,
+      "path": "select/pl_01_いまはおやすみ_戸田恵子.txt"
+    }
+  ]
+}
